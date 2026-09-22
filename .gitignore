@@ -1,3 +1,8 @@
+# custom
+figures
+scripts/old-scripts
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
